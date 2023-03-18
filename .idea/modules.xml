@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../numberinput-warning.iml" filepath="$PROJECT_DIR$/../numberinput-warning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inputnumber-warning.iml" filepath="$PROJECT_DIR$/inputnumber-warning.iml" />
     </modules>
   </component>
 </project>
